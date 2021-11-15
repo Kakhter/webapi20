@@ -13,7 +13,7 @@ namespace webapi20.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "Name", "Khalid a" };
+            return new string[] { "Name", "Khalid ak" };
         }
 
         // GET api/values/5
