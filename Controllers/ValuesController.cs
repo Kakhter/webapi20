@@ -16,7 +16,7 @@ namespace webapi20.Controllers
             return new string[] { "Name", "Khalid ak" };
         }
 
-        // GET api/values/5
+        // GET api/values/5k
         [HttpGet("{id}")]
         public string Get(int id)
         {
